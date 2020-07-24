@@ -14,6 +14,7 @@ This should be compatible with everything that doesn't touch The Keystone ItemTa
 
 # Features
 **1.0.0 [✅]** Disables The Keystone forever
+**1.0.1 [✅]** Adds a The Keystone item that works (admin only)
 
 [Changelog](https://steamcommunity.com/sharedfiles/filedetails/changelog/2176002773)
 
