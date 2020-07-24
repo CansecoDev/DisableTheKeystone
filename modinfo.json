@@ -1,0 +1,16 @@
+{
+	"name": "Disable The Keystone",
+	"description": "Disable The Keystone is a mod for Conan Exiles that does just that, disabling The Keystone",
+	"changeNote": "v1.0.0\n- First (and probably final) release",
+	"author": "C4N",
+	"authorUrl": "https://github.com/srcanseco/DisableTheKeystone",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2176002773",
+	"steamVisibility": 2,
+	"folderName": "DisableTheKeystone",
+	"revisionNumber": 233751,
+	"snapshotId": 25795
+}
