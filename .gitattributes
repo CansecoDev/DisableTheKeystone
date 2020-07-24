@@ -1,7 +1,7 @@
 # This .gitattributes file should be placed at the root of your mod project directory
 
 * text=auto
-*.json diff merge text
+*.[jJ][sS][oO][nN] diff merge text
 
 ## versioned-binaries ##
 
