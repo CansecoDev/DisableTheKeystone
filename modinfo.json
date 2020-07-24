@@ -1,6 +1,6 @@
 {
 	"name": "Disable The Keystone",
-	"description": "Disable The Keystone is a mod for Conan Exiles that does just that, disabling The Keystone",
+	"description": "[b]ID: 2176002773[/b] | Just disables The Keystone\n[b]Version : 1.0.1[/b]\n\nDisable The Keystone is a mod for Conan Exiles that does just that, disabling The Keystone. You've done all this for nothing, now go back to work slave, this is your true home... [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2175333316]There is only one way out...[/url]\n\nWorks in singleplayer/co-op and dedicated servers.\n\n[url=https://github.com/srcanseco/DisableTheKeystone/releases]Download older versions[/url]\n\n[h1]About Disable The Keystone[/h1]\nI wanted to disable the keystone so I just made a mod for it, there in not much to say\n\n[h1]Compatibility[/h1]\nThis should be compatible with everything that doesn't touch The Keystone ItemTable entry (15517)\n\n[h1]Features[/h1]\n[b][✅][/b] Disables The Keystone forever\n[b][✅][/b] Adds a The Keystone item that works (admin only)\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2176002773]Changelog[/url]\n\n[h1]Known bugs[/h1]\n- None so far.\n",
 	"changeNote": "v1.0.1\n- Added a non craftable The Keystone item for admins",
 	"author": "C4N",
 	"authorUrl": "https://github.com/srcanseco/DisableTheKeystone",
